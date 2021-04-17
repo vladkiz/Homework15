@@ -1,0 +1,21 @@
+@import "_variables";
+$dark: $gabelGreen;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px,
+  xxl: 1320px,
+) !default;
+
+$font-weight-base: 700;
+$nav-link-font-size: 0.875rem;
+$navbar-dark-active-color: $Turbo;
+$navbar-dark-color: $white;
+$navbar-brand-font-size: 1.875rem;
+$h1-font-size: 4.25rem;
+$h2-font-size: 1.875rem;
+$h3-font-size: 1rem;
+$yellow: $yellowBtn;
+$navbar-nav-link-padding-x: 0;
